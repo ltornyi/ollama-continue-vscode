@@ -39,4 +39,4 @@ By default, `starcoder2:3b` is preconfigured for autocomplete.
 
 ## Stop models
 
-When [this PR](https://github.com/ollama/ollama/pull/6739) is merged and released, you can stop models without removing them.
+* `ollama stop` to stop a model without removing it - available since 0.3.11
